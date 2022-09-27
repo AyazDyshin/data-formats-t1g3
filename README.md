@@ -30,7 +30,7 @@ It can be split into two main parts:
 - Create JSON-LD mapping of above JSON data to RDF.
 - Create jq queries for above JSON data.
 ## Part 4 - CSV on the Web.
--Create relational model from exisitng UML schema.
--Create a corresponding CSV on the Web Table group descriptor.
+- Create relational model from exisitng UML schema.
+- Create a corresponding CSV on the Web Table group descriptor.
 - Represent data in CSV, valid agains above table group descriptors.
 - Enhance the CSV on the Web descriptor with virtual columns, and aboutUrl, propertyUrl and valueUrl annotations to create a transformation to RDF.
